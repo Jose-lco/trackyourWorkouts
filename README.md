@@ -52,4 +52,4 @@ I used this repository to learn about badges:
 
 **This project was created by:**
 * Jose-lco [![HitCount](http://hits.dwyl.com/Jose-lco/trackyourWorkouts.svg)](http://hits.dwyl.com/Jose-lco/trackyourWorkouts)
-  * Contact info: [Linkedin profile](www.linkedin.com/in/josephine-ndungu-a0a441160)
+  * Contact info: [Linkedin profile](https://www.linkedin.com/in/josephine-ndungu-a0a441160)
