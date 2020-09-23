@@ -21,26 +21,20 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 
 ## Installation
 
-1. The first step would be to clone the link of the repository. This can be done by clicking the green button on the top right of this repository.
-![Clone the repository](./Assets/672C1BBD-7724-43D3-8E25-5BF73B2D068E_1_105_c.jpeg)
-
-2. Go to your terminal on your computer and run this command in the folder that you would like to generate the README.
-```bash
-git clone https://github.com/Jose-lco/trackyourWorkouts.git
-```
-3. Open the folder with the repository. The first thing you would do is to install the dependencies. In order to do this, you would run npm install in the command line.
-```
-npm install 
-``` 
-4. To officially run the application, run this in the command line:
-```bash
-node index.js
-```
+You can find the deployed application on https://track-yo-workouts.herokuapp.com/
 ## Usage
 
-This is a CLI app that generates the README according to the user's input. The README will be generated in the same folder, right after you are done answering all the questions. You can add more content to your README as you please by opening and editing it. 
+When the user loads the page, they should be given the option to create a new workout, or continue with their last workout.
 
- ![track your workouts gif](./Assets/trackyourworkouts.gif)
+The user should be able to:
+
+  * Add exercises to a previous workout plan.
+
+  * Add new exercises to a new workout plan.
+
+  * View multiple the combined weight of multiple exercises on the `stats` page.
+
+ ![track your workouts gif](Assets/5A1C7141-574F-42AC-A86D-61B5168D6E91.gif)
 
 ## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Jose-lco/undefined/issues)
 
