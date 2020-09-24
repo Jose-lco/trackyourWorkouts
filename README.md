@@ -36,7 +36,7 @@ The user should be able to:
 
  ![track your workouts gif](Assets/5A1C7141-574F-42AC-A86D-61B5168D6E91.gif)
 
-## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Jose-lco/undefined/issues)
+## Contributing [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Jose-lco/trackyourWorkouts/issues)
 
 yes you can make contributions to this project and report any issues. If you would like to make a contribution to the application, the green badge above will direct you to the issues page for this repository and you can submit your issue there.
 
